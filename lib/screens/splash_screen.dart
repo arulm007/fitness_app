@@ -22,7 +22,7 @@ class SplashScreen extends StatelessWidget {
           ),
         ),
       ),
-    );
+    ); //scafold
   }
 }
 
