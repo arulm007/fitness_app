@@ -50,5 +50,3 @@ class _SplashViewState extends State<SplashView> {
     return const SplashScreen();
   }
 }
-
-// Replace with your actual Home Screen
